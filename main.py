@@ -12,7 +12,7 @@ from telegram.ext import (
     ConversationHandler, ContextTypes, filters
 )
 
-BOT_TOKEN = "7876431851:AAEUeICZo-Fqdnd0IVVdiA7zAfzNxL2NIAA"
+BOT_TOKEN = ""
 USERS_FILE = "users.json"
 RAPPELS_FILE = "rappels.json"
 EDT_CACHE_FILE = "edt_cache.json"
